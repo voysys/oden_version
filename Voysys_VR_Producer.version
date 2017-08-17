@@ -1,5 +1,5 @@
 config : {
     version : "3.1.7";
     download_link : "https://drive.google.com/open?id=0By3M61EAw40bZVJObzlWaDE5S0E";
-    info : "Hej hej hej";
+    info : "Hej hej \nhej";
 };
