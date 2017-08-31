@@ -1,5 +1,5 @@
 config : {
-    version : "1.2.11";
-    download_link : "https://drive.google.com/open?id=0By3M61EAw40bQWJzUk9ibFVoaDg";
+    version : "1.2.12";
+    download_link : "https://drive.google.com/open?id=0By3M61EAw40bR09LV3JKbGttSHc";
     info : "";
 };
